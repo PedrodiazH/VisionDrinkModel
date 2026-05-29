@@ -22,8 +22,11 @@ El problema se aborda como una regresión lineal
 - **Output:** Un único valor continuo (Gramos de alcohol acumulados).
 - **Loss Function:** Mean Squared Error (MSE).
 
-### Stack tecnológico
-
+### Fundamentos tecnológicos y analíticos
+La arquitectura del modelo se sostiene bajo los siguientes tópicos de investigación y desarrollo:
+- **Reconocimiento de expresiones faciales (FER)**
+- **Deep Learning Multimodal**
+- Stack tecnológico: PyTorch, OpenCV, Albumentations para Data Augmentation
 ### Future approach
 - XAI (Grad-CAM o SHAP) para zonas del rostro que determinan la inferencia de BAC
 - Ponderar bajo otros métodos de estimación de BAC
