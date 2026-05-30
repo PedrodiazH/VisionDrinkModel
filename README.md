@@ -6,6 +6,8 @@ Este repositorio contiene el pipeline de procesamiento y modelado para estimar l
 
 Luego, la idea es llevarlo a un modelo de regresión que infiera el BAC a través de expresiones faciales. Para ponderarlo con otras variables de interés y encapsularlo en una App Movil.
 
+[Ver estado y métricas del Dataset](DATASET_SUMMARY.md)
+
 ## Arquitectura 
 - **Código y Metadatos (GitHub):** Contiene scripts, arquitecturas de red y el archivo `dataset.csv` (etiquetas y variables).
 - **Imágenes (Local/Drive):** Los PNGs crudos y aumentados quedan excluidos del control de versiones (`.gitignore`). 
