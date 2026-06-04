@@ -2,7 +2,7 @@
 
 > **Total de imágenes crudas disponibles:** `10`
 
-### 👤 Sujetos y Biometría
+### 👤 Participantes 
 | Sujeto   | Peso (kg)   |   Imágenes Totales |
 |:---------|:------------|-------------------:|
 | Kako     | N/A         |                  1 |
